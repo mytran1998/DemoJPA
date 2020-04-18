@@ -1,2 +1,2 @@
-# demo-jpa
+# Demo-jpa
 Demo using Jpa, Sql Server in Spring mvc
